@@ -1,0 +1,1 @@
+.main{display:flex;min-height:100vh}.sidebar{width:220px;border:1px solid black}.content{flex:1}.header{display:flex;justify-content:space-between;align-items:center;background-color:#add8e6;padding:10px 20px}.btn{height:40px;width:80px}.ul{list-style-type:none;padding:10px}ul{margin:0}
